@@ -7,5 +7,6 @@ list all todos with `node index.js list`,
 edit a todo by ID using `node index.js edit -i 1 -t "New Title"`,  
 and delete a todo with `node index.js delete 1`. 
 
-All todos are stored locally in a `db.json` file.  
+All todos are stored locally in a `db.json` file.
+
 To get started, run `npm install commander` and create a `db.json` file with empty brackets: `[]`.
